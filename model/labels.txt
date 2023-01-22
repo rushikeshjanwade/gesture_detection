@@ -1,0 +1,11 @@
+0 Child
+1 Four
+2 Go
+3 Lookout
+4 Negative
+5 One
+6 Positive
+7 Standby
+8 Three
+9 Two
+
